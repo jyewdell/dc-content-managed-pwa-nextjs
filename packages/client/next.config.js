@@ -4,6 +4,5 @@ module.exports = {
     env: {
         contentApi: 'jaketest.cdn.content.amplience.net'
     },
-    poweredByHeader: false,
-    target: 'serverless'
+    poweredByHeader: false
 }
